@@ -1,0 +1,4 @@
+[submodule "wiki of standard developement"]
+	path = docs/gitwiki
+	url = https://github.com/SilesiaMakerSpace/sms.ngo_project-template.wiki.git
+	branch = master
